@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[![Ckigenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckigenk)](https://github.com/ckigenk/github-readme-stats)
+[![Ckigenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckigenk)](https://github.com/ckigenk/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckigenk&exclude_repo=github-readme-stats,ckigenk.github.io)](https://github.com/ckigenk/github-readme-stats)
