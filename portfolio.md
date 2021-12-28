@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hesbon%20Maiyo-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://hesbon.me/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hesbon-green?style=flat&logo=Upwork&logoColor=green&link=https://www.upwork.com/freelancers/~01cd4a3e225c09c1d4)](https://www.upwork.com/freelancers/~0149a8964d3493eb5b)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesbon-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hesbon-kiptoo-maiyo/)](https://www.linkedin.com/in/hesbon-kiptoo-maiyo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesbon-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hesbon-kiptoo-maiyo/)](https://www.linkedin.com/in/hesbon-kiptoo-maiyo
 [![Gmail](https://img.shields.io/badge/Email-ckigen.k@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:ckigen.k@gmail.com)](mailto:ckigen.k@gmail.com)
 
 👋 Hello! I am an Innovative Programmer and Internet Entrepreneur striving to make the world a more unified and connected place. A creative thinker, adept in software development, and working with modern technologies
@@ -47,6 +47,6 @@
   - ![](https://progress-bar.dev/89/?title=MySQL&width=90)
   - ![](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
-[![Hesbon's github stats](https://github-readme-stats.vercel.app/api?username=Hesbon5600&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/Hesbon5600)
-[![Hesbon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hesbon&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/Hesbon5600)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesbon5600&exclude_repo=web-scrapping-intro,absenteeism-data-analysis,audio-book-deep-learning-business-case,purchase-recommendation,data-science-basics,Car-sales-Linear-regression,pandas-fundamental,pima-india-data-prediction.,data-science-logistic-regression,titanic-data-science,hotel-recommender,recommennder-system-levelup,black-friday,deep-learning-tensorflow,neural-network-basic,titanic-data-science,movie-recommendation-system&layout=compact)](https://github.com/Hesbon5600)
+[![Collins' github stats](https://github-readme-stats.vercel.app/api?username=ckigenk&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/ckigenk)
+[![Collins' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ckigenk&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/ckigenk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckigenk&exclude_repo=web-scrapping-intro,absenteeism-data-analysis,audio-book-deep-learning-business-case,purchase-recommendation,data-science-basics,Car-sales-Linear-regression,pandas-fundamental,pima-india-data-prediction.,data-science-logistic-regression,titanic-data-science,hotel-recommender,recommennder-system-levelup,black-friday,deep-learning-tensorflow,neural-network-basic,titanic-data-science,movie-recommendation-system&layout=compact)](https://github.com/ckigenk)
