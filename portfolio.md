@@ -1,14 +1,13 @@
 ## Collins Kigen
 
-<img src="https://res.cloudinary.com/dsw3onksq/image/upload/v1604041265/nairobi-io-nairobi-png-598_200_k4foqn.png" alt="Nairobi" width="100%"/>
-<!-- <img src="https://user-images.githubusercontent.com/87149425/147569770-28a01ccd-7c31-492c-8363-13d5d871e2ca.png" alt="Nairobi"  width=100%/> -->
+<img src="https://user-images.githubusercontent.com/87149425/147645693-ee0858b5-525a-4451-9b8c-0db0685edf1d.png" width="100%"/>
 
 [![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/ckigenk)
 ![Profile views](https://gpvc.arturio.dev/ckigenk) <img src="https://img.shields.io/github/followers/ckigenk?label=Follow" style=" float:left, margin-right:10px" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Collins%20Kigen-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://ckigenk.github.io/CollinsKigen/)
 [![Upwork](https://img.shields.io/badge/Upwork-Collins-green?style=flat&logo=Upwork&logoColor=green&link=https://www.upwork.com/freelancers/~01cd4a3e225c09c1d4)](https://www.upwork.com/freelancers/~0149a8964d3493eb5b)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesbon-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hesbon-kiptoo-maiyo/)](https://www.linkedin.com/in/hesbon-kiptoo-maiyo -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Collins-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/collins-kigen-67b74910a/)](https://www.linkedin.com/in/collins-kigen-67b74910a/)
 [![Gmail](https://img.shields.io/badge/Email-ckigen.k@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:ckigen.k@gmail.com)](mailto:ckigen.k@gmail.com)
 
 👋 Hello! I am an Fullstack software developer proficient in Python and JavaScript.
