@@ -1,6 +1,6 @@
 ## Collins Kigen
 
-<img src="https://user-images.githubusercontent.com/87149425/147645693-ee0858b5-525a-4451-9b8c-0db0685edf1d.png" width="100%"/>
+<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="100%"/>
 
 [![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/ckigenk)
 ![Profile views](https://gpvc.arturio.dev/ckigenk) <img src="https://img.shields.io/github/followers/ckigenk?label=Follow" style=" float:left, margin-right:10px" />
