@@ -43,5 +43,5 @@
   - ![](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
 [![Collins' github stats](https://github-readme-stats.vercel.app/api?username=ckigenk&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/ckigenk)
-[![Collins' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ckigenk&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/ckigenk)
+[![Collins' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ckigen&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/ckigenk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckigenk&exclude_repo=web-scrapping-intro,absenteeism-data-analysis,audio-book-deep-learning-business-case,purchase-recommendation,data-science-basics,Car-sales-Linear-regression,pandas-fundamental,pima-india-data-prediction.,data-science-logistic-regression,titanic-data-science,hotel-recommender,recommennder-system-levelup,black-friday,deep-learning-tensorflow,neural-network-basic,titanic-data-science,movie-recommendation-system&layout=compact)](https://github.com/ckigenk)
